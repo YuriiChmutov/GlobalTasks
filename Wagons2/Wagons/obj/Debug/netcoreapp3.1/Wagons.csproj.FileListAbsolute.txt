@@ -1,0 +1,13 @@
+D:\TraineeEducation\Wagons\Wagons\bin\Debug\netcoreapp3.1\Wagons.exe
+D:\TraineeEducation\Wagons\Wagons\bin\Debug\netcoreapp3.1\Wagons.deps.json
+D:\TraineeEducation\Wagons\Wagons\bin\Debug\netcoreapp3.1\Wagons.runtimeconfig.json
+D:\TraineeEducation\Wagons\Wagons\bin\Debug\netcoreapp3.1\Wagons.runtimeconfig.dev.json
+D:\TraineeEducation\Wagons\Wagons\bin\Debug\netcoreapp3.1\Wagons.dll
+D:\TraineeEducation\Wagons\Wagons\bin\Debug\netcoreapp3.1\Wagons.pdb
+D:\TraineeEducation\Wagons\Wagons\obj\Debug\netcoreapp3.1\Wagons.csprojAssemblyReference.cache
+D:\TraineeEducation\Wagons\Wagons\obj\Debug\netcoreapp3.1\Wagons.csproj.CoreCompileInputs.cache
+D:\TraineeEducation\Wagons\Wagons\obj\Debug\netcoreapp3.1\Wagons.AssemblyInfoInputs.cache
+D:\TraineeEducation\Wagons\Wagons\obj\Debug\netcoreapp3.1\Wagons.AssemblyInfo.cs
+D:\TraineeEducation\Wagons\Wagons\obj\Debug\netcoreapp3.1\Wagons.dll
+D:\TraineeEducation\Wagons\Wagons\obj\Debug\netcoreapp3.1\Wagons.pdb
+D:\TraineeEducation\Wagons\Wagons\obj\Debug\netcoreapp3.1\Wagons.genruntimeconfig.cache

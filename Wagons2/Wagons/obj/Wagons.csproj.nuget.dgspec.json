@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TraineeEducation\\Practice\\Wagons\\Wagons\\Wagons.csproj": {}
+    "D:\\TraineeEducation\\Wagons\\Wagons\\Wagons.csproj": {}
   },
   "projects": {
-    "D:\\TraineeEducation\\Practice\\Wagons\\Wagons\\Wagons.csproj": {
+    "D:\\TraineeEducation\\Wagons\\Wagons\\Wagons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TraineeEducation\\Practice\\Wagons\\Wagons\\Wagons.csproj",
+        "projectUniqueName": "D:\\TraineeEducation\\Wagons\\Wagons\\Wagons.csproj",
         "projectName": "Wagons",
-        "projectPath": "D:\\TraineeEducation\\Practice\\Wagons\\Wagons\\Wagons.csproj",
+        "projectPath": "D:\\TraineeEducation\\Wagons\\Wagons\\Wagons.csproj",
         "packagesPath": "C:\\Users\\yurii.chmutov\\.nuget\\packages\\",
-        "outputPath": "D:\\TraineeEducation\\Practice\\Wagons\\Wagons\\obj\\",
+        "outputPath": "D:\\TraineeEducation\\Wagons\\Wagons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yurii.chmutov\\AppData\\Roaming\\NuGet\\NuGet.Config",
